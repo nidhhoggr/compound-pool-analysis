@@ -1,0 +1,4 @@
+input/*.pdbqt
+input/*.csv
+input/*.smi
+output/*

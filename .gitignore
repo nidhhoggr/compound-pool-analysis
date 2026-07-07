@@ -1,4 +1,3 @@
-input/*.pdbqt
-input/*.csv
-input/*.smi
+input/*
 output/*
+.DS_Store
